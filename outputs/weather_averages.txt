@@ -1,0 +1,100 @@
+City: Albuquerque, Avg Temperature: 5.79, Avg Humidity: 29.00
+City: Anaheim, Avg Temperature: 14.64, Avg Humidity: 65.00
+City: Anchorage, Avg Temperature: -5.92, Avg Humidity: 91.00
+City: Arlington, Avg Temperature: 17.13, Avg Humidity: 83.00
+City: Atlanta, Avg Temperature: 12.31, Avg Humidity: 85.00
+City: Aurora, Avg Temperature: 1.32, Avg Humidity: 51.00
+City: Austin, Avg Temperature: 20.41, Avg Humidity: 82.00
+City: Bakersfield, Avg Temperature: 12.57, Avg Humidity: 67.00
+City: Baltimore, Avg Temperature: 7.26, Avg Humidity: 92.00
+City: Baton Rouge, Avg Temperature: 20.83, Avg Humidity: 88.00
+City: Boise, Avg Temperature: 3.09, Avg Humidity: 92.00
+City: Boston, Avg Temperature: 5.86, Avg Humidity: 88.00
+City: Buffalo, Avg Temperature: 8.43, Avg Humidity: 88.00
+City: Chandler, Avg Temperature: 13.58, Avg Humidity: 32.00
+City: Charlotte, Avg Temperature: 10.13, Avg Humidity: 92.00
+City: Chesapeake, Avg Temperature: 10.27, Avg Humidity: 92.00
+City: Chicago, Avg Temperature: 4.37, Avg Humidity: 85.00
+City: Chula Vista, Avg Temperature: 14.16, Avg Humidity: 74.00
+City: Cincinnati, Avg Temperature: 14.48, Avg Humidity: 91.00
+City: Cleveland, Avg Temperature: 13.30, Avg Humidity: 94.00
+City: Colorado Springs, Avg Temperature: -1.47, Avg Humidity: 60.00
+City: Columbus, Avg Temperature: 14.00, Avg Humidity: 93.00
+City: Corpus Christi, Avg Temperature: 21.80, Avg Humidity: 89.00
+City: Dallas, Avg Temperature: 16.30, Avg Humidity: 82.00
+City: Denver, Avg Temperature: 1.91, Avg Humidity: 49.00
+City: Detroit, Avg Temperature: 10.74, Avg Humidity: 98.00
+City: Durham, Avg Temperature: 8.21, Avg Humidity: 84.00
+City: El Paso, Avg Temperature: 12.56, Avg Humidity: 20.00
+City: Fort Wayne, Avg Temperature: 8.37, Avg Humidity: 85.00
+City: Fort Worth, Avg Temperature: 17.74, Avg Humidity: 82.00
+City: Fremont, Avg Temperature: 11.41, Avg Humidity: 92.00
+City: Fresno, Avg Temperature: 12.94, Avg Humidity: 62.00
+City: Garland, Avg Temperature: 15.70, Avg Humidity: 82.00
+City: Gilbert, Avg Temperature: 13.57, Avg Humidity: 34.00
+City: Glendale, Avg Temperature: 14.70, Avg Humidity: 30.00
+City: Greensboro, Avg Temperature: 9.53, Avg Humidity: 93.00
+City: Henderson, Avg Temperature: 11.28, Avg Humidity: 26.00
+City: Hialeah, Avg Temperature: 24.08, Avg Humidity: 88.00
+City: Honolulu, Avg Temperature: 26.67, Avg Humidity: 65.00
+City: Houston, Avg Temperature: 22.08, Avg Humidity: 85.00
+City: Indianapolis, Avg Temperature: 9.28, Avg Humidity: 76.00
+City: Irvine, Avg Temperature: 14.44, Avg Humidity: 72.00
+City: Irving, Avg Temperature: 16.60, Avg Humidity: 71.00
+City: Jacksonville, Avg Temperature: 17.53, Avg Humidity: 95.00
+City: Jersey City, Avg Temperature: 9.74, Avg Humidity: 95.00
+City: Kansas City, Avg Temperature: 4.91, Avg Humidity: 57.00
+City: Laredo, Avg Temperature: 23.16, Avg Humidity: 68.00
+City: Las Vegas, Avg Temperature: 10.63, Avg Humidity: 28.00
+City: Lexington, Avg Temperature: 13.90, Avg Humidity: 88.00
+City: Lincoln, Avg Temperature: 3.65, Avg Humidity: 45.00
+City: Long Beach, Avg Temperature: 14.16, Avg Humidity: 70.00
+City: Los Angeles, Avg Temperature: 14.37, Avg Humidity: 65.00
+City: Louisville, Avg Temperature: 14.78, Avg Humidity: 93.00
+City: Lubbock, Avg Temperature: 6.14, Avg Humidity: 49.00
+City: Madison, Avg Temperature: 15.49, Avg Humidity: 95.00
+City: Memphis, Avg Temperature: 18.05, Avg Humidity: 95.00
+City: Mesa, Avg Temperature: 13.84, Avg Humidity: 33.00
+City: Miami, Avg Temperature: 23.91, Avg Humidity: 89.00
+City: Milwaukee, Avg Temperature: 4.39, Avg Humidity: 83.00
+City: Minneapolis, Avg Temperature: -0.41, Avg Humidity: 76.00
+City: Nashville, Avg Temperature: 15.11, Avg Humidity: 95.00
+City: New Orleans, Avg Temperature: 18.49, Avg Humidity: 85.00
+City: New York, Avg Temperature: 9.96, Avg Humidity: 94.00
+City: Newark, Avg Temperature: 9.41, Avg Humidity: 95.00
+City: Norfolk, Avg Temperature: 5.65, Avg Humidity: 94.00
+City: North Las Vegas, Avg Temperature: 10.90, Avg Humidity: 27.00
+City: Oakland, Avg Temperature: 9.34, Avg Humidity: 99.00
+City: Oklahoma City, Avg Temperature: 8.52, Avg Humidity: 57.00
+City: Omaha, Avg Temperature: 4.25, Avg Humidity: 49.00
+City: Orlando, Avg Temperature: 20.76, Avg Humidity: 97.00
+City: Philadelphia, Avg Temperature: 8.37, Avg Humidity: 98.00
+City: Phoenix, Avg Temperature: 14.90, Avg Humidity: 30.00
+City: Pittsburgh, Avg Temperature: 13.46, Avg Humidity: 94.00
+City: Plano, Avg Temperature: 15.78, Avg Humidity: 75.00
+City: Portland, Avg Temperature: 7.36, Avg Humidity: 94.00
+City: Raleigh, Avg Temperature: 9.28, Avg Humidity: 90.00
+City: Reno, Avg Temperature: 7.28, Avg Humidity: 69.00
+City: Richmond, Avg Temperature: 10.54, Avg Humidity: 95.00
+City: Riverside, Avg Temperature: 12.55, Avg Humidity: 43.00
+City: Sacramento, Avg Temperature: 10.93, Avg Humidity: 87.00
+City: Saint Paul, Avg Temperature: -0.01, Avg Humidity: 75.00
+City: San Antonio, Avg Temperature: 21.54, Avg Humidity: 80.00
+City: San Diego, Avg Temperature: 14.17, Avg Humidity: 76.00
+City: San Francisco, Avg Temperature: 11.44, Avg Humidity: 91.00
+City: San Jose, Avg Temperature: 11.17, Avg Humidity: 88.00
+City: Santa Ana, Avg Temperature: 14.49, Avg Humidity: 69.00
+City: Scottsdale, Avg Temperature: 14.35, Avg Humidity: 32.00
+City: Seattle, Avg Temperature: 6.87, Avg Humidity: 88.00
+City: Spokane, Avg Temperature: -0.17, Avg Humidity: 95.00
+City: St. Louis, Avg Temperature: 8.82, Avg Humidity: 65.00
+City: St. Petersburg, Avg Temperature: -6.64, Avg Humidity: 84.00
+City: Stockton, Avg Temperature: 10.10, Avg Humidity: 93.00
+City: Tampa, Avg Temperature: 21.17, Avg Humidity: 93.00
+City: Toledo, Avg Temperature: 5.18, Avg Humidity: 91.00
+City: Tucson, Avg Temperature: 15.54, Avg Humidity: 25.00
+City: Tulsa, Avg Temperature: 9.75, Avg Humidity: 58.00
+City: Virginia Beach, Avg Temperature: 10.01, Avg Humidity: 96.00
+City: Washington, Avg Temperature: -0.49, Avg Humidity: 89.00
+City: Wichita, Avg Temperature: 5.89, Avg Humidity: 57.00
+City: Winston-Salem, Avg Temperature: 9.45, Avg Humidity: 96.00

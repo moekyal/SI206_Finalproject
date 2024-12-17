@@ -1,0 +1,100 @@
+City: Albuquerque, Avg PM2.5: 16.87, AQI: 3
+City: Anaheim, Avg PM2.5: 56.74, AQI: 4
+City: Anchorage, Avg PM2.5: 0.50, AQI: 2
+City: Arlington, Avg PM2.5: 4.58, AQI: 1
+City: Atlanta, Avg PM2.5: 10.87, AQI: 2
+City: Aurora, Avg PM2.5: 73.25, AQI: 4
+City: Austin, Avg PM2.5: 7.20, AQI: 1
+City: Bakersfield, Avg PM2.5: 13.32, AQI: 2
+City: Baltimore, Avg PM2.5: 10.65, AQI: 2
+City: Baton Rouge, Avg PM2.5: 7.67, AQI: 1
+City: Boise, Avg PM2.5: 3.07, AQI: 2
+City: Boston, Avg PM2.5: 5.50, AQI: 1
+City: Buffalo, Avg PM2.5: 1.18, AQI: 2
+City: Chandler, Avg PM2.5: 27.60, AQI: 3
+City: Charlotte, Avg PM2.5: 6.96, AQI: 1
+City: Chesapeake, Avg PM2.5: 21.35, AQI: 3
+City: Chicago, Avg PM2.5: 5.49, AQI: 1
+City: Chula Vista, Avg PM2.5: 119.98, AQI: 5
+City: Cincinnati, Avg PM2.5: 1.48, AQI: 1
+City: Cleveland, Avg PM2.5: 1.67, AQI: 1
+City: Colorado Springs, Avg PM2.5: 1.94, AQI: 2
+City: Columbus, Avg PM2.5: 0.99, AQI: 1
+City: Corpus Christi, Avg PM2.5: 4.64, AQI: 2
+City: Dallas, Avg PM2.5: 28.45, AQI: 3
+City: Denver, Avg PM2.5: 73.25, AQI: 4
+City: Detroit, Avg PM2.5: 1.75, AQI: 1
+City: Durham, Avg PM2.5: 6.49, AQI: 1
+City: El Paso, Avg PM2.5: 11.13, AQI: 2
+City: Fort Wayne, Avg PM2.5: 7.55, AQI: 2
+City: Fort Worth, Avg PM2.5: 3.66, AQI: 1
+City: Fremont, Avg PM2.5: 11.82, AQI: 2
+City: Fresno, Avg PM2.5: 5.83, AQI: 1
+City: Garland, Avg PM2.5: 5.23, AQI: 1
+City: Gilbert, Avg PM2.5: 32.64, AQI: 3
+City: Glendale, Avg PM2.5: 21.62, AQI: 3
+City: Greensboro, Avg PM2.5: 5.77, AQI: 1
+City: Henderson, Avg PM2.5: 12.78, AQI: 2
+City: Hialeah, Avg PM2.5: 4.29, AQI: 2
+City: Honolulu, Avg PM2.5: 2.81, AQI: 2
+City: Houston, Avg PM2.5: 9.68, AQI: 2
+City: Indianapolis, Avg PM2.5: 5.94, AQI: 2
+City: Irvine, Avg PM2.5: 20.82, AQI: 3
+City: Irving, Avg PM2.5: 4.91, AQI: 1
+City: Jacksonville, Avg PM2.5: 3.38, AQI: 2
+City: Jersey City, Avg PM2.5: 8.35, AQI: 2
+City: Kansas City, Avg PM2.5: 4.07, AQI: 1
+City: Laredo, Avg PM2.5: 5.86, AQI: 1
+City: Las Vegas, Avg PM2.5: 34.65, AQI: 3
+City: Lexington, Avg PM2.5: 2.36, AQI: 2
+City: Lincoln, Avg PM2.5: 1.43, AQI: 1
+City: Long Beach, Avg PM2.5: 12.53, AQI: 2
+City: Los Angeles, Avg PM2.5: 46.93, AQI: 3
+City: Louisville, Avg PM2.5: 1.68, AQI: 1
+City: Lubbock, Avg PM2.5: 2.28, AQI: 2
+City: Madison, Avg PM2.5: 4.99, AQI: 2
+City: Memphis, Avg PM2.5: 1.73, AQI: 1
+City: Mesa, Avg PM2.5: 20.33, AQI: 3
+City: Miami, Avg PM2.5: 3.01, AQI: 2
+City: Milwaukee, Avg PM2.5: 2.07, AQI: 2
+City: Minneapolis, Avg PM2.5: 2.08, AQI: 1
+City: Nashville, Avg PM2.5: 2.91, AQI: 2
+City: New Orleans, Avg PM2.5: 8.52, AQI: 1
+City: New York, Avg PM2.5: 8.35, AQI: 2
+City: Newark, Avg PM2.5: 8.35, AQI: 2
+City: Norfolk, Avg PM2.5: 1.87, AQI: 2
+City: North Las Vegas, Avg PM2.5: 34.65, AQI: 3
+City: Oakland, Avg PM2.5: 2.75, AQI: 1
+City: Oklahoma City, Avg PM2.5: 3.67, AQI: 1
+City: Omaha, Avg PM2.5: 1.41, AQI: 2
+City: Orlando, Avg PM2.5: 3.54, AQI: 2
+City: Philadelphia, Avg PM2.5: 41.02, AQI: 3
+City: Phoenix, Avg PM2.5: 21.62, AQI: 3
+City: Pittsburgh, Avg PM2.5: 1.18, AQI: 2
+City: Plano, Avg PM2.5: 5.68, AQI: 2
+City: Portland, Avg PM2.5: 3.96, AQI: 1
+City: Raleigh, Avg PM2.5: 5.92, AQI: 1
+City: Reno, Avg PM2.5: 0.50, AQI: 2
+City: Richmond, Avg PM2.5: 7.17, AQI: 1
+City: Riverside, Avg PM2.5: 11.79, AQI: 2
+City: Sacramento, Avg PM2.5: 9.91, AQI: 2
+City: Saint Paul, Avg PM2.5: 2.69, AQI: 1
+City: San Antonio, Avg PM2.5: 9.42, AQI: 2
+City: San Diego, Avg PM2.5: 119.98, AQI: 5
+City: San Francisco, Avg PM2.5: 11.28, AQI: 2
+City: San Jose, Avg PM2.5: 17.72, AQI: 3
+City: Santa Ana, Avg PM2.5: 20.82, AQI: 3
+City: Scottsdale, Avg PM2.5: 20.33, AQI: 3
+City: Seattle, Avg PM2.5: 8.72, AQI: 2
+City: Spokane, Avg PM2.5: 5.24, AQI: 1
+City: St. Louis, Avg PM2.5: 2.66, AQI: 2
+City: St. Petersburg, Avg PM2.5: 1.31, AQI: 2
+City: Stockton, Avg PM2.5: 9.78, AQI: 2
+City: Tampa, Avg PM2.5: 3.59, AQI: 2
+City: Toledo, Avg PM2.5: 4.12, AQI: 1
+City: Tucson, Avg PM2.5: 15.99, AQI: 2
+City: Tulsa, Avg PM2.5: 3.52, AQI: 1
+City: Virginia Beach, Avg PM2.5: 5.76, AQI: 1
+City: Washington, Avg PM2.5: 4.21, AQI: 1
+City: Wichita, Avg PM2.5: 6.24, AQI: 1
+City: Winston-Salem, Avg PM2.5: 10.07, AQI: 2
